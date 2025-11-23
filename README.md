@@ -104,11 +104,8 @@ Research-Agents/
 
 Ideas: Add support for more LLMs (e.g., OpenAI), PDF export, or UI via Streamlit.
 
-## 📄 License
-This project is MIT licensed. See [LICENSE](LICENSE) for details (add one if missing!).
-
 ## 🙏 Acknowledgments
-- Built with [LangChain](https://www.langchain.com/).
+- Built with [Google ADK](https://google.github.io/adk-docs/).
 - APIs: [Google Gemini](https://ai.google.dev/), [Tavily](https://tavily.com/).
 - Inspired by multi-agent research patterns in AI.
 
