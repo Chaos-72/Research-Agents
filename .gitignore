@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+.coverage.*
+.tox
+.nox
+*.log
+
+# Environment variables - NEVER commit real keys
+.env
+.env.*
+
+# But explicitly allow example/template files
+!example.env
+!.env.example
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Optional: if you don't want to commit virtual env
+# venv/

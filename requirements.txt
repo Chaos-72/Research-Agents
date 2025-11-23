@@ -1,0 +1,4 @@
+google-adk==1.17.0
+google-cloud-aiplatform==1.72.0
+python-dotenv==1.2.1
+pydantic==2.12.4
